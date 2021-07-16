@@ -9588,7 +9588,8 @@ a.text-dark:hover, a.text-dark:focus {
   --secondary-color: #090909;
   --dark-color: #16191e;
   /* --title-color: #090909; */
-  --title-color: #0e76a8;
+/*    --title-color: #0e76a8; */ /*was blue*/ 
+   --title-color: #0047f5
   --text-color: #5a5a5a;
   /* --text-color: #0e76a8; */
   --light-bg-color: #f8f9fa;
