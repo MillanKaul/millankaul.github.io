@@ -12018,6 +12018,10 @@ section.w3l-grid-quote h3 {
  border: 1px solid var(--primary-color);
 }
 
+.services-gd:hover > .date {
+   color: var(--primary-color);
+}
+
 .w3l-blog-sec .serve-info span {
   text-transform: capitalize;
   font-size: 16px;
@@ -12087,7 +12091,14 @@ section.w3l-grid-quote h3 {
   font-weight: bold;
   border-radius: 20px;
 }
-
+/* 
+.date:hover {
+ color: var(--primary-color);
+}
+ */
+.services-gd:hover > .date {
+   color: var(--primary-color);
+}
 .w3l-blog-sec .column-img img {
   width: 100%;
 }
