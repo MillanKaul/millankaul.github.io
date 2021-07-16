@@ -9582,8 +9582,9 @@ a.text-dark:hover, a.text-dark:focus {
 
 :root {
   --border-color-grey: #ddd; /* grey colour for image box background */
-  /* --primary-color: #ea3a60; */
-  --primary-color: #0e76a8;
+  /* --primary-color: #ea3a60; */ /*meroon */
+  /* --primary-color: #0e76a8; */ /* blue */
+  --primary-color: #0047f5;
   --secondary-color: #090909;
   --dark-color: #16191e;
   /* --title-color: #090909; */
@@ -12372,25 +12373,25 @@ iframe{
 }
 
 /* Style the header: fixed position (always stay at the top) */
-/*     .newheader {
+  .newheader {
     position: fixed;
     top: 0;
     z-index: 1;
     width: 100%;
     background-color: #f1f1f1;
-    } */
+    }
 
     /* The progress container (grey background) */
-/*     .progress-container {
+  .progress-container {
     width: 100%;
     height: 8px;
     background: #ccc;
     }
- */
+
     /* The progress bar (scroll indicator) */
-/*     .progress-bar {
+.progress-bar {
     height: 8px;
     background: #0047f5;
     width: 0%;
     }
- */
+
